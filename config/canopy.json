@@ -4,7 +4,7 @@
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json"
   ],
-  "metadata": ["Date"],
+  "metadata": ["Date", "Series"],
   "theme": {
     "accentColor": "red",
     "grayColor": "sand",
