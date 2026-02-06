@@ -1,11 +1,11 @@
 {
   "collection": "https://bcb2507.github.io/jsontest/sampleplusblogitem.json",
   "devCollection": "https://bcb2507.github.io/jsontest/sampleplusblogitem.json",
+  "metadata": ["Series", "Date"],
   "featured": [
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json"
   ],
-  "metadata": ["Series", "Date"],
   "theme": {
     "defaultTheme": "light",
     "accentColor": "red",
