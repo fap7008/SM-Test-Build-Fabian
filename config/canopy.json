@@ -1,5 +1,6 @@
 {
-  "collection": "https://sites.dlib.nyu.edu/viewer/api/presentation/collections/mss208:fales/manifest.json",
+  "collection": "https://bcb2507.github.io/jsontest/sampleplusblogitem.json",
+  "devCollection": "https://bcb2507.github.io/jsontest/sampleplusblogitem.json",
   "featured": [
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid0/manifest.json",
     "https://sites.dlib.nyu.edu/viewer/api/presentation/photos/fales_mss208_cuid100/manifest.json"
